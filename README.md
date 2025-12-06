@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**dev-reetam/dev-reetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Reetam, a cloud enthusiast and Linux learner.
 
-Here are some ideas to get you started:
+I explore and experiment with whatever I can in the cloud.
+If an idea pops into my head, chances are I’ll build it and try it out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is cloud computing, Linux, and automation. My favorite tools are AWS, GCP, Linux terminal, and Git/GitHub.
+
+Fun Facts:
+
+- I have a keen interest in geopolitics and history
+- I love watching series and movies
+- I enjoy coding and learning new tech
+
